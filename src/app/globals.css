@@ -1,7 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --primary-color: #FEBE10;
-  --secondary-color: #FFFF00;
-  --tertiary-color: #5d5959;
+    --primary-color: #FEBE10;
+    --secondary-color: #FFFF00;
+    --tertiary-color: #5d5959;
+
+    --font-primary: 'Inter', sans-serif;
+    --font-secondary: 'Georgia', serif;
+    --font-mono: 'Roboto Mono', monospace;
 }
